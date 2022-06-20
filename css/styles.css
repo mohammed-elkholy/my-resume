@@ -3787,7 +3787,7 @@ input[type="button"].btn--primary:focus {
     color: white;
 }
 
-.s-about__pic {
+.s-about__picc {
     width: var(--vspace-5);
     height: var(--vspace-5);
     border: 1.6rem solid rgba(255, 255, 255, 0.02);
